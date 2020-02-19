@@ -1,0 +1,6 @@
+-Xms512M
+-Xmx4G
+-Xss6M
+-XX:MaxMetaspaceSize=1G
+-XX:+CMSClassUnloadingEnabled
+-XX:+UseConcMarkSweepGC

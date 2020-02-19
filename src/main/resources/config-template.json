@@ -1,0 +1,17 @@
+{
+  "jwt": {
+    "secret": "8nwUu9hQjgArn99r"
+  },
+  "smartConfigServer": {
+    "host": "localhost",
+    "port": 8080,
+    "protocol": "https",
+    "keyStore": {
+      "file": "~/.celegram/.keystore.pkcs12",
+      "password": "M3UqjHdcbjHh3NmQ"
+    },
+    "token": {
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoibW9oc2VuIiwicm9sZSI6ImFkbWluIn0.J0D_CGs20ult-7TbJj88bM28IStc8Ri6PXe5vjxn3SQ"
+    }
+  }
+}
